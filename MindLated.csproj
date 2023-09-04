@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="dnlib" Version="3.4.0" />
+    <PackageReference Include="dnlib" Version="4.1.0" />
   </ItemGroup>
 
   <ItemGroup>
